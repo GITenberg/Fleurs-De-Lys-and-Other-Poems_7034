@@ -1,0 +1,22 @@
+_repo: Fleurs-De-Lys-and-Other-Poems_7034
+creator:
+  author:
+    agent_name: Weir, Arthur
+    birthdate: 1864
+    deathdate: 1902
+    gutenberg_agent_id: '2315'
+    url: http://www.gutenberg.org/2009/agents/2315
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 19th century'
+- !lcc 'PS'
+title: Fleurs De Lys, and Other Poems
+url: http://www.gutenberg.org/ebooks/7034
